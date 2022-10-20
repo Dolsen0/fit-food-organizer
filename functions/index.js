@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json())
 
 app.get("/main", (req,res)=>{
-    res.send("Ok Cool")
+    res.send("Coming Soon")
 })
 
 
